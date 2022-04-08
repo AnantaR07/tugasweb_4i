@@ -1,0 +1,375 @@
+.Background{
+    position: absolute;
+    background-image: url("back2.jpg");
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.TextName p {
+    position: absolute;
+    font-weight: bold;
+    text-align: left;
+    font-size: 40px;
+    left: 25px;
+    padding-top: 60px;
+    color:#ffff;
+}
+
+.TextName h2{
+    position: absolute;
+    text-align: left;
+    font-size: 24px;
+    left: 123px;
+    padding-top: 60px;
+    color:#ffff;
+    top: 90px;
+    
+
+}
+
+.content{
+    position: absolute;
+    width: 100px;
+    height: 300px;
+    top: 80px;
+    left: 400px;
+}
+
+img{
+    position: absolute;
+    width: 500px;
+    height: 450px;
+}
+
+button {
+position: absolute;;
+ appearance: none;
+ background-color: transparent;
+ border: 0.125em solid #fff;
+ border-radius: 0.9375em;
+ box-sizing: border-box;
+ color: #fff;
+ cursor: pointer;
+ display: inline-block;
+ font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+ font-size: 16px;
+ font-weight: 600;
+ line-height: normal;
+ margin: 0;
+ min-height: 3.75em;
+ min-width: 0;
+ outline: none;
+ padding: 1em 2.3em;
+ text-align: center;
+ text-decoration: none;
+ transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+ user-select: none;
+ -webkit-user-select: none;
+ touch-action: manipulation;
+ will-change: transform;
+ top: 600px;
+ left: 970px;
+}
+
+button:disabled {
+ pointer-events: none;
+}
+
+button:hover {
+ color: #c30000;
+ background-color: #fff;
+ box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+ transform: translateY(-2px);
+}
+
+button:active {
+ box-shadow: none;
+ transform: translateY(0);
+}
+
+.TextName2{
+    position: absolute;
+    text-align: left;
+    font-size: 8px;
+    left: 30px;
+    padding-top: 60px;
+    color: #fff;
+    top: 130px;
+     font-family: sans-serif;
+}
+
+.content2{
+    position: absolute;
+    width: 100px;
+    height: 300px;
+    top: 600px;
+}
+
+.ImagePortofolio{
+    background-image: url("portofolio2.jpg");
+    position: absolute;
+    width: 1000px;
+    height: 1650px;
+}
+
+.boxright{
+    background-color: #c30000;
+        position: absolute;
+    width: 290px;
+    height: 1750px;
+       top: 500px;
+    left: 950px;
+}
+
+.SocialMedia{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 110px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 1935px;
+     font-family: Book Antiqua;
+}
+
+.Name{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 60px;
+    padding-top: 60px;
+    color: #fff;
+    top: 990px;
+     font-family: Agency FB;
+}
+
+.Slogan{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 40px;
+    padding-top: 60px;
+    color: #fff;
+    top: 1050px;
+     font-family: Candara Light;
+}
+
+.Karakter{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 490px;
+    padding-top: 60px;
+    color: #fff;
+    top: 540px;
+     font-family: Agency FB;
+}
+
+.ket1{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 490px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 620px;
+     font-family: Candara Light;
+}
+
+.Pengalaman{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 490px;
+    padding-top: 60px;
+    color: #fff;
+    top: 760px;
+     font-family: Agency FB;
+}
+
+.ket2{
+        position: absolute;
+    text-align: left;
+    font-size: 17px;
+    left: 490px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 835px;
+     font-family: Bell MT;
+}
+
+.ket2-1{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 510px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 865px;
+     font-family: Candara Light;
+}
+
+.Pendidikan{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 490px;
+    padding-top: 60px;
+    color: #fff;
+    top: 928px;
+     font-family: Agency FB;
+}
+
+.ket3{
+        position: absolute;
+    text-align: left;
+    font-size: 17px;
+    left: 490px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 1000px;
+     font-family: Bell MT;
+}
+
+.ket3-1{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 510px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 1030px;
+     font-family: Candara Light;
+}
+
+
+.Prestasi{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 490px;
+    padding-top: 60px;
+    color: #fff;
+    top: 1177px;
+     font-family: Agency FB;
+}
+
+.ket4{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 510px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 1270px;
+     font-family: Candara Light;
+}
+
+.Kemampuan{
+        position: absolute;
+    text-align: left;
+    font-size: 30px;
+    left: 490px;
+    padding-top: 60px;
+    color: #fff;
+    top: 1410px;
+     font-family: Agency FB;
+}
+
+.ket5{
+        position: absolute;
+    text-align: left;
+    font-size: 15px;
+    left: 410px;
+    padding-top: 60px;
+    color: #c30000;
+    top: 1570px;
+     font-family: Candara Light;
+     width: 500px;
+}
+
+.skillscontainer{
+      row-gap: 0;
+}
+
+.skillsheader{
+      display: flex;
+      align-items: center;
+      margin-bottom: var(--mb-2-5);
+      cursor: pointer;
+}
+
+.skillsicon{
+      font-size: 2rem;
+      color: #00f;
+      margin-left: 2rem;
+}
+
+.skillsarrow{
+      font-size: 2rem;
+      color: #00f;
+}
+
+.skillstitle{
+      font-size: var(--h2-font-size);
+      margin-left: 0.8rem;
+}
+
+.skillssubtitle{
+      font-size: var(--normal-font-size);
+      color: #c30000;
+      margin-left: 0.8rem;
+}
+
+.skillsarrow{
+      margin-left: auto;
+      transition: .4s;
+      margin-right: 1.4rem;
+}
+
+.skillstitles{
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: var(--mb-0-75);
+      margin-left: 1rem;
+      font-size: 1rem;
+      margin-right: 1rem;
+}
+
+.skillsname{
+      font-size: 1.1rem;
+      font-weight: var(--font-medium);
+      margin-left: 1.4rem;
+}
+
+.skillsbar,
+.skillspercentage{
+      height: 7px;
+      border-radius: .25rem;
+}
+
+.skillsbar{
+      background-color: #c30000;
+      margin-left: 2rem;
+      margin-right: 1.4rem;
+}
+
+.skillspercentage{
+      display: block;
+      background-color: #c30000;
+}
+
+.skillsnumber{
+    top: 100px;
+}
+
+.skillsbar2{
+          height: 7px;
+      border-radius: .25rem;
+      color: #000f;
+}
