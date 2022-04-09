@@ -17,7 +17,7 @@
     </div>
 
     <div class="content">
-    <img src="My.png" alt="">
+    <img src="my.png" alt="">
 	</div>
 
     <div class="TextName2">
